@@ -1,2 +1,2 @@
 # DNA-methylation
-DML,DMR analysis from EPIC ARRAY
+DML,DMR analysis from suicide and healthy control postmortem brain tissues
